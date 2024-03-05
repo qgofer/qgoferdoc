@@ -1,0 +1,7 @@
+name: qgofertext
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - nbdev
