@@ -1,7 +1,8 @@
-name: qgofertext
+name: qgoferdoc
 channels:
   - defaults
 dependencies:
   - python
   - jupyterlab
   - nbdev
+  - qgoferutils

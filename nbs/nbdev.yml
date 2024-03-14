@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "qgofertext"
-  site-url: "https://BDFL669.github.io/qgofertext"
+  title: "qgoferdoc"
+  site-url: "https://BDFL669.github.io/qgoferdoc"
   description: "Handles text related data"
   repo-branch: main
-  repo-url: "https://github.com/BDFL669/qgofertext"
+  repo-url: "https://github.com/BDFL669/qgoferdoc"
