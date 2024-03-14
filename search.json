@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "qgoferdoc",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "qgoferdoc"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "qgoferdoc",
+    "section": "Install",
+    "text": "Install\npip install qgoferdoc",
+    "crumbs": [
+      "qgoferdoc"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "qgoferdoc",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "qgoferdoc"
+    ]
+  },
+  {
+    "objectID": "rake.html",
+    "href": "rake.html",
+    "title": "rake",
+    "section": "",
+    "text": "source\n\nload_stop_words\n\n load_stop_words (stop_words_file_path:str)\n\nLoads stop words from a file and return as a list of words.\nArgs: stop_words_file_path: filepath of a file containing stop words\n\nsource\n\n\nbuild_stop_word_regex\n\n build_stop_word_regex (stop_words_file_path:str)\n\nBuilds a regex expression to match any of the stop word.\nArgs: stop_words_file_path: filepath of a file containing stop words\n\nsource\n\n\nRAKE\n\n RAKE (stop_words_file:str='')\n\nRapid Automatic Keyword Extraction algorithm.",
+    "crumbs": [
+      "rake"
+    ]
+  }
+]
