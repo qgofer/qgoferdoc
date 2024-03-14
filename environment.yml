@@ -4,6 +4,6 @@ channels:
 dependencies:
   - python
   - jupyterlab
-  - nbdev
+  - nbdev==2.3.12
   - pre-commit
   - qgoferutils
