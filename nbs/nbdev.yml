@@ -3,7 +3,7 @@ project:
 
 website:
   title: "qgoferdoc"
-  site-url: "https://BDFL669.github.io/qgoferdoc"
-  description: "Handles text related data"
+  site-url: "https://qgofer.github.io/qgoferdoc"
+  description: "easily search for and through your documents"
   repo-branch: main
-  repo-url: "https://github.com/BDFL669/qgoferdoc"
+  repo-url: "https://github.com/qgofer/qgoferdoc"
