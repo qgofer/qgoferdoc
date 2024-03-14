@@ -2,8 +2,8 @@
 
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/qgoferdoc',
-                'doc_host': 'https://BDFL669.github.io',
-                'git_url': 'https://github.com/BDFL669/qgoferdoc',
+                'doc_host': 'https://qgofer.github.io',
+                'git_url': 'https://github.com/qgofer/qgoferdoc',
                 'lib_path': 'qgoferdoc'},
   'syms': { 'qgoferdoc\\core': {},
             'qgoferdoc\\rake': { 'qgoferdoc\\rake.RAKE': ('rake.html#rake', 'qgoferdoc\\rake.py'),
