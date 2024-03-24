@@ -18,4 +18,6 @@ d = { 'settings': { 'branch': 'main',
                                 'qgoferdoc.rake.RAKE.separate_words': ('rake.html#rake.separate_words', 'qgoferdoc/rake.py'),
                                 'qgoferdoc.rake.RAKE.split_sentences': ('rake.html#rake.split_sentences', 'qgoferdoc/rake.py'),
                                 'qgoferdoc.rake.build_stop_word_regex': ('rake.html#build_stop_word_regex', 'qgoferdoc/rake.py'),
-                                'qgoferdoc.rake.load_stop_words': ('rake.html#load_stop_words', 'qgoferdoc/rake.py')}}}
+                                'qgoferdoc.rake.load_stop_words': ('rake.html#load_stop_words', 'qgoferdoc/rake.py')},
+            'qgoferdoc.search': { 'qgoferdoc.search.index_folders': ('search.html#index_folders', 'qgoferdoc/search.py'),
+                                  'qgoferdoc.search.initialize_config': ('search.html#initialize_config', 'qgoferdoc/search.py')}}}
