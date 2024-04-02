@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python
   - jupyterlab
-  - nbdev==2.3.12
+  - fastai::nbdev==2.3.12
   - pre-commit
   - qgoferutils
   - fire
